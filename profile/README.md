@@ -12,10 +12,6 @@
 
 ---
 
-<a name="english"></a>
-
-## 🌐 English
-
 **Cloud-Neutral Toolkit** is a **cloud-native**, **vendor-agnostic**, and **portable** AI infrastructure & DevOps toolkit.
 
 Our mission is simple: **Free your applications and data from cloud lock-in.**
