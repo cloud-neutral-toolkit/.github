@@ -60,10 +60,10 @@ Build once. Run anywhere.   Move anytime.
 - 🤝 Contributing: CONTRIBUTING.md
 - 📄 License: Apache 2.0
 
-# <p align="center"> ☁️ Deployed & Running On </p>
+<p align="center"> ☁️ Deployed & Running On </p>
 <p align="center"> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel" /> <img src="https://img.shields.io/badge/Google_Cloud_Run-4285F4?style=for-the-badge&logo=google-cloud" /> <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare" /> </p>
 
-# <p align="center"> 🤖 Powered by Dev Assistants </p>
+<p align="center"> 🤖 Powered by Dev Assistants </p>
 <p align="center"> <img src="https://img.shields.io/badge/OpenAI_Codex-00A67E?style=flat-square&logo=openai" /> <img src="https://img.shields.io/badge/OpenCode-Assistant-blue?style=flat-square&logo=github" /> <img src="https://img.shields.io/badge/Antigravity-Engine-purple?style=flat-square" /> </p>
 <p align="center" style="color:#666;font-size:12px;"> © 2024-2026 Cloud-Neutral Toolkit · Built for the Open Web </p>
 
