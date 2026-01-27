@@ -25,7 +25,7 @@ Build once. Run anywhere.   Move anytime.
 | **console.svc.plus** | TypeScript | Web console for apps, users, and configuration |
 | **accounts.svc.plus** | Go | Identity, auth, session, and M2M core |
 | **rag-server.svc.plus** | Go | RAG backend for AI knowledge systems |
-| **agent.svc.plus** | — | Multi-cloud automation agent (Private Beta) |
+| **agent.svc.plus** | Go | Multi-Vhosts automation agent |
 
 ---
 
