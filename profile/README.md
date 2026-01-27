@@ -18,19 +18,7 @@ AI infrastructure & DevOps toolkit. Our mission is simple: **Free your applicati
 Build once. Run anywhere.   Move anytime.
 ---
 
-## ⚡ Core Capabilities
-
-| Module | Description | Link |
-|------|------------|------|
-| 🔐 **Authentication** | Secure identity system with multiple login methods | [Console](https://console.svc.plus/) |
-| 🛡️ **Authorization** | Fine-grained access control (RBAC / ABAC) | [Docs](https://docs.svc.plus/auth) |
-| 🤖 **Machine-to-Machine** | Secure service-to-service authentication | [Guide](https://docs.svc.plus/m2m) |
-| 🔌 **REST & Admin APIs** | Programmatic access for automation & integration | [API](https://docs.svc.plus/api) |
-| 💻 **CLI Connect** | Manage everything from your terminal | [CLI](https://docs.svc.plus/cli) |
-
----
-
-## 📦 Ecosystem Components
+## 📦 Core Capabilities & Ecosystem Components
 
 | Repository | Language | Purpose |
 |----------|----------|---------|
@@ -44,12 +32,6 @@ Build once. Run anywhere.   Move anytime.
 ## 🚀 Quick Start
 
 📖 Full documentation: https://console.svc.plus/docs
-
-## 🤝 Community & License
-
-- 💬 Discussions: https://github.com/cloud-neutral-toolkit/discussions
-- 🤝 Contributing: CONTRIBUTING.md
-- 📄 License: Apache 2.0
 
 # ☁️ Deployed & Running On
 <p align="left"> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel" /> <img src="https://img.shields.io/badge/Google_Cloud_Run-4285F4?style=for-the-badge&logo=google-cloud" /> <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare" /> </p>
