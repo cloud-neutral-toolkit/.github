@@ -57,3 +57,53 @@ cn login
 
 # Initialize your first cloud-neutral app
 cn app create my-first-app
+
+<div align="center">
+
+🤝 Community & License
+We welcome all contributions! | 我们欢迎所有形式的贡献！
+
+Discussions • Contributing Guide
+
+Copyright © 2024 Cloud-Neutral Toolkit. Licensed under the Apache 2.0 License.
+
+</div>
+
+<br>
+<div align="center">
+  
+  <hr style="height:1px;border-width:0;color:#3d3d3d;background-color:#3d3d3d;width:80%;margin: 40px auto;">
+
+  <p style="color: #888; font-weight: bold; margin-bottom: 10px;">🚀 DEPLOYED & RUNNING ON</p>
+  
+  <a href="https://vercel.com" target="_blank">
+    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+  </a>
+  <a href="https://cloud.google.com/run" target="_blank">
+    <img src="https://img.shields.io/badge/Google_Cloud_Run-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP Cloud Run">
+  </a>
+  <a href="https://www.cloudflare.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare">
+  </a>
+
+  <br><br>
+
+  <p style="color: #888; font-weight: bold; margin-bottom: 10px; margin-top: 20px;">🤖 POWERED BY DEV ASSISTANTS</p>
+  
+  <img src="https://img.shields.io/badge/Codex-AI-00A67E?style=flat-square&logo=openai&logoColor=white" alt="Codex">
+  <img src="https://img.shields.io/badge/OpenCode-Assistant-blue?style=flat-square&logo=github&logoColor=white" alt="OpenCode">
+  <img src="https://img.shields.io/badge/Antigravity-Engine-purple?style=flat-square&logo=python&logoColor=white" alt="Antigravity">
+
+  <br><br><br>
+
+  <p>
+    <a href="https://github.com/cloud-neutral-toolkit/discussions" style="text-decoration: none; color: #0366d6;">Community</a> • 
+    <a href="CONTRIBUTING.md" style="text-decoration: none; color: #0366d6;">Contributing</a> • 
+    <a href="LICENSE" style="text-decoration: none; color: #0366d6;">License</a>
+  </p>
+  
+  <p style="color: #666; font-size: 12px;">
+    Copyright © 2024 Cloud-Neutral Toolkit. Built for the Open Web.
+  </p>
+
+</div>
