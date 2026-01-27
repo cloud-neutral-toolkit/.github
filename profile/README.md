@@ -61,7 +61,6 @@ Build once. Run anywhere.   Move anytime.
 - 📄 License: Apache 2.0
 
 # ☁️ Deployed & Running On
-
 <p align="center"> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel" /> <img src="https://img.shields.io/badge/Google_Cloud_Run-4285F4?style=for-the-badge&logo=google-cloud" /> <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare" /> </p>
 
 # 🤖 Powered by Dev Assistants
