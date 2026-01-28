@@ -9,13 +9,11 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 </div>
-
 ---
+Cloud-Neutral Toolkit is a cloud-native, vendor-agnostic, and portable AI infrastructure & DevOps toolkit.
+It enables teams to build, deploy, and operate AI systems without being locked into any single cloud provider.
 
-**Cloud-Neutral Toolkit ** is a **cloud-native**, **vendor-agnostic**, and **portable**
-
-AI infrastructure & DevOps toolkit. Our mission is simple: **Free your applications and data from cloud lock-in.**
-Build once. Run anywhere.   Move anytime.
+Build once. Run anywhere. Move anytime.
 ---
 
 ## 📦 Core Capabilities & Ecosystem Components
