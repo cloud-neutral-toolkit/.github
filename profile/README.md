@@ -20,12 +20,16 @@ Build once. Run anywhere.   Move anytime.
 
 ## 📦 Core Capabilities & Ecosystem Components
 
-| Repository | Language | Purpose |
-|----------|----------|---------|
-| **console.svc.plus** | TypeScript | Web console for apps, users, and configuration |
-| **accounts.svc.plus** | Go | Identity, auth, session, and M2M core |
-| **rag-server.svc.plus** | Go | RAG backend for AI knowledge systems |
-| **agent.svc.plus** | Go | Multi-Vhosts automation agent |
+
+| Repository | Language | Description |
+|-----------|----------|-------------|
+| **console.svc.plus** | TypeScript | Web-based **control plane** for managing applications, users, environments, and system configuration |
+| **accounts.svc.plus** | Go | **Identity and access core** providing authentication, authorization, sessions, and machine-to-machine (M2M) trust |
+| **rag-server.svc.plus** | Go | **RAG backend service** for indexing, retrieving, and serving AI knowledge contexts |
+| **postgresql.svc.plus** | Upstream | **Primary PostgreSQL database stack** used by core platform services |
+| **agent.svc.plus** | Go | **Infrastructure automation agent** for multi-vhost operations, orchestration, and remote task execution |
+| **moltbot.svc.plus** | Upstream | **Flagship AI assistant** enabling conversational workflows, automation, and intelligent task execution |
+
 
 ---
 
