@@ -1,9 +1,6 @@
 <div align="center">
 
 # ☁️ Cloud-Neutral Toolkit
-
-**Build, Authenticate, Deploy — Anywhere.**
-
 ----
 Cloud-Neutral Toolkit is a cloud-native, vendor-agnostic, and portable AI infrastructure & DevOps toolkit.
 It enables teams to build, deploy, and operate AI systems without being locked into any single cloud provider.
