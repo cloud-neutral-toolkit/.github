@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "Cloud-Neutral-Toolkit/console.svc.plus"
+		},
+		{
+			"path": "Cloud-Neutral-Toolkit/postgresql.svc.plus"
+		},
+		{
+			"path": "Cloud-Neutral-Toolkit/accounts.svc.plus"
+		},
+		{
+			"path": "Cloud-Neutral-Toolkit/agents.svc.plus"
+		},
+		{
+			"path": "Cloud-Neutral-Toolkit/rag-server.svc.plus"
+		},
+		{
+			"path": "Cloud-Neutral-Workshop/knowledge"
+		},
+		{
+			"path": "Cloud-Neutral-Toolkit/agent.svc.plus"
+		}
+	],
+	"settings": {}
+}
