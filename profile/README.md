@@ -4,17 +4,18 @@
 
 **Build, Authenticate, Deploy — Anywhere.**
 
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
-[![Go Report Card](https://goreportcard.com/badge/github.com/cloud-neutral-toolkit/rag-server.svc.plus)](https://goreportcard.com/report/github.com/cloud-neutral-toolkit/rag-server.svc.plus)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-
-</div>
----
+----
 Cloud-Neutral Toolkit is a cloud-native, vendor-agnostic, and portable AI infrastructure & DevOps toolkit.
 It enables teams to build, deploy, and operate AI systems without being locked into any single cloud provider.
 
 Build once. Run anywhere. Move anytime.
 ---
+
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
+[![Go Report Card](https://goreportcard.com/badge/github.com/cloud-neutral-toolkit/rag-server.svc.plus)](https://goreportcard.com/report/github.com/cloud-neutral-toolkit/rag-server.svc.plus)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+
+</div>
 
 ## 📦 Core Capabilities & Ecosystem Components
 
