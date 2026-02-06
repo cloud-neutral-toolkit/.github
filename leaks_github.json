@@ -1,0 +1,42 @@
+[
+ {
+  "Description": "Detected a Generic API Key, potentially exposing access to various services and sensitive operations.",
+  "StartLine": 28,
+  "EndLine": 28,
+  "StartColumn": 8,
+  "EndColumn": 41,
+  "Match": "apiKey = \"sk_live_abc123def456...\"",
+  "Secret": "sk_live_abc123def456...",
+  "File": "skills/security-audit/BEST_PRACTICES.md",
+  "SymlinkFile": "",
+  "Commit": "76ef2ec97c1a5310178ca44d94644c4439341f29",
+  "Entropy": 4.142915,
+  "Author": "Haitao Pan",
+  "Email": "manbuzhe2009@qq.com",
+  "Date": "2026-01-29T22:25:57Z",
+  "Message": "feat: Add security audit skill with best practices\n\n- Created automated security audit script\n- Detects hardcoded secrets, API keys, passwords\n- Validates token transmission security\n- Checks for sensitive data logging\n- Comprehensive best practices guide\n- Ready for use in all repositories\n\nFeatures:\n- Quick audit script with color-coded output\n- Detects AWS keys, Stripe keys, private keys\n- Validates environment variable usage\n- Checks .gitignore configuration\n- Exit codes for CI/CD integration\n\nAll tests passing in github-org-cloud-neutral-toolkit",
+  "Tags": [],
+  "RuleID": "generic-api-key",
+  "Fingerprint": "76ef2ec97c1a5310178ca44d94644c4439341f29:skills/security-audit/BEST_PRACTICES.md:generic-api-key:28"
+ },
+ {
+  "Description": "Detected a Generic API Key, potentially exposing access to various services and sensitive operations.",
+  "StartLine": 178,
+  "EndLine": 178,
+  "StartColumn": 11,
+  "EndColumn": 38,
+  "Match": "apiKey = \"sk_live_abc123...\"",
+  "Secret": "sk_live_abc123...",
+  "File": "skills/security-audit/SKILL.md",
+  "SymlinkFile": "",
+  "Commit": "76ef2ec97c1a5310178ca44d94644c4439341f29",
+  "Entropy": 3.6901164,
+  "Author": "Haitao Pan",
+  "Email": "manbuzhe2009@qq.com",
+  "Date": "2026-01-29T22:25:57Z",
+  "Message": "feat: Add security audit skill with best practices\n\n- Created automated security audit script\n- Detects hardcoded secrets, API keys, passwords\n- Validates token transmission security\n- Checks for sensitive data logging\n- Comprehensive best practices guide\n- Ready for use in all repositories\n\nFeatures:\n- Quick audit script with color-coded output\n- Detects AWS keys, Stripe keys, private keys\n- Validates environment variable usage\n- Checks .gitignore configuration\n- Exit codes for CI/CD integration\n\nAll tests passing in github-org-cloud-neutral-toolkit",
+  "Tags": [],
+  "RuleID": "generic-api-key",
+  "Fingerprint": "76ef2ec97c1a5310178ca44d94644c4439341f29:skills/security-audit/SKILL.md:generic-api-key:178"
+ }
+]
